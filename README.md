@@ -1,2 +1,3 @@
-liverabbit2
-===========
+# pepe
+
+a [Sails](http://sailsjs.org) application
