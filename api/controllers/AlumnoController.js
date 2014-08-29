@@ -6,9 +6,6 @@
  */
 
 module.exports = {
-	cl='';
-	cl="pepe";
-	console.log(cl);
 	
 };
 
