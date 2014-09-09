@@ -37,8 +37,10 @@ describe('homepage', function() {
   	e=element(by.id('email'));
   	e.sendKeys('luciano@gmail.com')
   	
-  	ee=e.getAttribute('value').then(function(text){
-  		console.log(text);	
+  	ee=e.getAttribute('value');
+  	name=ee
+  	name.then(function(text){
+  		console.log(text);
   	});
   	
   	expect(ee).toEqual('luciano@gmail.com');
