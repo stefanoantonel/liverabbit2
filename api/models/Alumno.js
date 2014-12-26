@@ -8,7 +8,11 @@
 module.exports = {
 
   attributes: {
+
   	jfhsdkfhsdkf
+
+  desde web
+
   }
 };
 
